@@ -2,3 +2,4 @@
 vips-properties.xml
 tiles/*.png
 output_tiles/**
+*.zip
